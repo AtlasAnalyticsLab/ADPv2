@@ -17,8 +17,9 @@ conda activate vmamba
 ```bash
 pip install -r requirements.txt
 cd kernels/selective_scan && pip install .
+```
 
 ## Training
 
-Use the bash script train.sh to submit a training job. 
+Use the bash script train.sh to submit a training job. Replace /path/to/dataset to the your training data containing unlabelled images for pretraining. To achieve a batch size of 64, 4 A100 GPUS were used.  
 
