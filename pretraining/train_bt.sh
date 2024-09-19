@@ -14,8 +14,8 @@
 module load opencv
 nvidia-smi 
 source ~/scratch/ENV/bin/activate 
-python /home/likai16/scratch/VMamba/classification/train.py /home/likai16/scratch/unlabelled_resized780\
-  --cfg /home/likai16/scratch/VMamba/classification/configs/vssm/vmambav0_base_224.yaml \
+python train.py /path/to/dataset
+  --cfg /configs/vssm/vmambav0_base_224.yaml \
   --workers 8 \
   --epochs 100 \
   --batch-size 104 \
