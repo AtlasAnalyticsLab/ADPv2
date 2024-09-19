@@ -18,3 +18,7 @@ conda activate vmamba
 pip install -r requirements.txt
 cd kernels/selective_scan && pip install .
 
+## Training
+
+Use the bash script train.sh to submit a training job. 
+
