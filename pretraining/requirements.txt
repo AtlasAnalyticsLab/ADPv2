@@ -1,5 +1,14 @@
-Pillow
-torch
+torch #recommend 2.2.0, 2.3.0
 torchvision
-timm
+torchaudio
+packaging
+triton
+timm==0.4.12
+pytest 
+chardet 
+yacs 
+termcolor
+submitit 
+tensorboardX
 fvcore
+seaborn
