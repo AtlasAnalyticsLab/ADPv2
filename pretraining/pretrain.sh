@@ -14,7 +14,7 @@
 module load opencv
 nvidia-smi 
 source vmamba/bin/activate 
-python train.py /path/to/dataset
+python pretrain.py /path/to/dataset
   --cfg /configs/vssm/vmambav0_base_224.yaml \
   --workers 8 \
   --epochs 100 \
