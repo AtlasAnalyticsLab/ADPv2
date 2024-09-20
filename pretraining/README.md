@@ -21,5 +21,5 @@ cd kernels/selective_scan && pip install .
 
 ## Training
 
-Use the bash script train.sh to submit a training job. Replace /path/to/dataset to the your training data containing unlabelled images for pretraining. To achieve a batch size of 64, 4 A100 GPUS were used.  
+Use the bash script train.sh to submit a training job. Replace /path/to/dataset to the your training data containing unlabelled images for pretraining. Prepare the dataset folder in the ImageFolder format as specified here, note that the class name does not matter as this is the pretraining phase [https://pytorch.org/vision/main/generated/torchvision.datasets.ImageFolder]. To achieve a batch size of 64, 4 A100 GPUS were used.  
 
