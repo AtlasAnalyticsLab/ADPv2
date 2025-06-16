@@ -1,0 +1,13 @@
+# ninja log v5
+1	18542	1717595361000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	9d3850054f040dc0
+1	54582	1717595397000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	5b16480693e45a8f
+1	69553	1717595412000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_oflex.o	df23ced9027a5196
+687	20282	1718168996000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	1250b4c4a45e5564
+688	29657	1718169005000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_oflex.o	f486aab7381b1a33
+687	55334	1718169031000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	333b78ae83459a85
+334602	354597	1719005752000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	1250b4c4a45e5564
+334598	390482	1719005787000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	333b78ae83459a85
+334602	516798	1719005914000000000	/lustre06/project/6075915/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_oflex.o	f486aab7381b1a33
+1972	20444	1743565611000000000	/lustre07/scratch/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	d314fd48ed094805
+1972	36743	1743565627000000000	/lustre07/scratch/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_oflex.o	589e060512de6fc8
+1972	63431	1743565654000000000	/lustre07/scratch/likai16/VMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	32d620c61634d082

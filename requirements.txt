@@ -1,0 +1,25 @@
+torch>=2.2.0
+torchvision
+torchaudio
+timm>=0.4.12
+fvcore
+packaging
+triton
+yacs
+termcolor
+chardet
+pytest
+submitit
+tensorboardX
+numpy
+pandas
+scikit-learn
+Pillow
+matplotlib
+seaborn
+tqdm
+
+# Optional (for s4nd workflows)
+# timm==0.5.4      # for s4nd
+# hydra-core       # for s4nd
+# pytorch_lightning  # for s4nd
